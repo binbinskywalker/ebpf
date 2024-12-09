@@ -1,0 +1,4 @@
+/home/binbin/bpf/ebpf_ex_in_c/uprobe/ex2/build/CMakeFiles/utest.dir
+/home/binbin/bpf/ebpf_ex_in_c/uprobe/ex2/build/CMakeFiles/uprobe.dir
+/home/binbin/bpf/ebpf_ex_in_c/uprobe/ex2/build/CMakeFiles/edit_cache.dir
+/home/binbin/bpf/ebpf_ex_in_c/uprobe/ex2/build/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,7 @@
 install depends
 sudo apt-get install -y make clang llvm libelf-dev libbpf-dev bpfcc-tools libbpfcc-dev linux-tools-$(uname -r) linux-headers-$(uname -r)
- 
+
+#make vmlinux.h 
+# put it into linux.h/include/x86_64/vmlinux.h
+ bpftool btf dump file /sys/kernel/btf/vmlinux format c > vmlinux.h
 

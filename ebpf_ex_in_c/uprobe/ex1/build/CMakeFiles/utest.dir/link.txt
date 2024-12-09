@@ -1,0 +1,1 @@
+/usr/bin/c++  -Werror -ggdb -rdynamic CMakeFiles/utest.dir/utest.cc.o -o utest 
